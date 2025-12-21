@@ -5,6 +5,7 @@
   <br>
   <h3 align="center">✅ I've completed the BIT's Data Analytics course (SQL and Tableau)</h3>
   <h3 align="center">🔄 Currently working on my Machine Learning Project</h3>
+  <br>
   <h3 align="center">Email me at work.elisacorda@gmail.com  &nbsp; | &nbsp; Scroll down for my Resume 👇
 </h3>
 </div>
