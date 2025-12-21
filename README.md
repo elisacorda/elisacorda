@@ -7,9 +7,9 @@
 ####   ✅ I've compleated the BIT's Data Analytics course (SQL and Tableau)
 ####   🔄 Currently working on my Machine Learning Project
 
-### Outside of tech, I love having off-screen time doing ballet, sports and outdoor activities.
+#### Outside of tech, I love having off-screen time doing ballet, sports and outdoor activities.
 
-### Email me at work.elisacorda@gmail.com
+#### Email me at work.elisacorda@gmail.com
 
 
 <!--
