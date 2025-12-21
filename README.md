@@ -4,8 +4,8 @@
 
 ### I'm currently studying for my bachelor in Artificial Intelligence in Pavia and Milan. On this profile you can find some of the projects I've been working both at university and on my own.
 
-#####   ✅ I've compleated the BIT's Data Analytics course (SQL and Tableau)
-#####   🔄 Currently working on my Machine Learning Project
+####   ✅ I've compleated the BIT's Data Analytics course (SQL and Tableau)
+####   🔄 Currently working on my Machine Learning Project
 
 ### Outside of tech, I love having off-screen time doing ballet, sports and outdoor activities.
 
