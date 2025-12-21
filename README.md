@@ -1,6 +1,5 @@
 <div>
-  <h1 align="center">Hi there 👋 I'm Elisa</h1>
-  <h3 align="center">Welcome to my GitHub profile!</h3>
+  <h1 align="center">Hi there 👋 I'm Elisa, welcome to my GitHub profile</h1>
   <h3 align="center">I'm currently studying for my bachelor in Artificial Intelligence in Pavia and Milan.</h3>
   <h3 align="center">On this profile you can find some of the projects I've been working both at university and on my own.</h3>
   <br>
