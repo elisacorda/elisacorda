@@ -9,7 +9,7 @@
 
 #### Outside of tech, I love having off-screen time doing ballet, sports and outdoor activities.
 
-#### Email me at work.elisacorda@gmail.com | scroll down for my Resume 👇
+#### Email me at work.elisacorda@gmail.com  |  Scroll down for my Resume 👇
 
 
 <!--
