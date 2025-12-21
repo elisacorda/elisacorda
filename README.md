@@ -1,8 +1,9 @@
 <div>
   <h1 align="center">Hi there 👋 I'm Elisa</h1>
   <h3 align="center">Welcome to my GitHub profile!</h3>
-  <h4 align="center">I'm currently studying for my bachelor in Artificial Intelligence in Pavia and Milan.</h4>
-  <h4 align="center">On this profile you can find some of the projects I've been working both at university and on my own.</h4>
+  <h3 align="center">I'm currently studying for my bachelor in Artificial Intelligence in Pavia and Milan.</h3>
+  <h3 align="center">On this profile you can find some of the projects I've been working both at university and on my own.</h3>
+  <br>
   <h4 align="center">✅ I've compleated the BIT's Data Analytics course (SQL and Tableau)</h4>
   <h4 align="center">🔄 Currently working on my Machine Learning Project</h4>
   <h4 align="center">Email me at work.elisacorda@gmail.com  &nbsp; | &nbsp; Scroll down for my Resume 👇
