@@ -6,7 +6,7 @@
   <h3 align="center">✅ I've completed the BIT's Data Analytics course (SQL and Tableau)</h3>
   <h3 align="center">🔄 Currently working on my Machine Learning Project</h3>
   <br>
-  <h3 align="center">Email me at <a href="mailto:work.elisacorda@gmail.com">work.elisacorda@gmail.com</a>  &nbsp; | &nbsp; Here to my 👉 <a href="https://github.com/elisacorda/Resume/blob/main/ElisaCorda_CV.pdf">Resume</a> 
+  <h3 align="center">Email me at <a href="mailto:work.elisacorda@gmail.com">work.elisacorda@gmail.com</a>  &nbsp; | &nbsp; Here to my <a href="https://github.com/elisacorda/Resume/blob/main/ElisaCorda_CV.pdf">Resume</a> repository
 </h3>
 </div>
 
