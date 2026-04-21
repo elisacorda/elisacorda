@@ -4,7 +4,7 @@
   <h3 align="center">On this profile you can find some of the projects I've been working both at university and on my own.</h3>
   <br>
   <h3 align="center">✅ I've completed the BIT's Data Analytics course (SQL and Tableau)</h3>
-  <h3 align="center">🔄 Currently working on my Machine Learning Project</h3>
+  <h3 align="center">✅ Just uploaded my most recent Machine Learning Project</h3>
   <br>
   <h3 align="center">Email me at <a href="mailto:work.elisacorda@gmail.com">work.elisacorda@gmail.com</a>  &nbsp; | &nbsp; Here to my <a href="https://github.com/elisacorda/Resume/blob/main/ElisaCorda_CV.pdf">Resume</a> 
 </h3>
